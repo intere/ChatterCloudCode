@@ -1,0 +1,3 @@
+[submodule "cloud/layer-parse-module"]
+	path = cloud/layer-parse-module
+	url = https://github.com/layerhq/layer-parse-module.git
